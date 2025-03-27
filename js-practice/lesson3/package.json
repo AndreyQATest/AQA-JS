@@ -1,0 +1,11 @@
+{
+  "name": "js-practice",
+  "version": "1.0.0",
+  "description": "AQA TEST",
+  "main": "main.js",
+  "scripts": {
+    "test": "TEST"
+  },
+  "author": "",
+  "license": "ISC"
+}
