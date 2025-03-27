@@ -4,8 +4,10 @@
   "description": "AQA TEST",
   "main": "main.js",
   "scripts": {
-    "test": "TEST"
+    "test": "TEST",
+    "runTests": "node lesson3/main.js"
   },
+  "type":"module",
   "author": "",
   "license": "ISC"
 }
